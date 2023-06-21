@@ -376,7 +376,7 @@ You can also check out the following:
 * [metrics-server releases](https://github.com/kubernetes-sigs/metrics-server/releases)
 * [Horizontal Pod Autoscaling](/docs/tasks/run-application/horizontal-pod-autoscale/)
 -->
-了解更多 metrics-server，参阅 [metrics-server 代码库](https://github.com/kubernetes-sigs/metrics-server)。
+了解更多 metrics-server，请参阅 [metrics-server 代码库](https://github.com/kubernetes-sigs/metrics-server)。
 
 你还可以查看以下内容：
 
